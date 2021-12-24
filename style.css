@@ -1,0 +1,63 @@
+.h-primary {
+    font-size: 3rem;
+    padding: 10px;
+    font-family: 'Acme', sans-serif;
+    background-color: rgb(255, 228, 196, 40%);
+    color: rgb(252, 152, 4);
+    text-align: center;
+}
+
+.contect-box {
+    /* border: 2px solid blueviolet; */
+    justify-content: center;
+    background-color: rgb(196, 193, 193, 46%);
+    display: flex;
+    padding: 20px;
+    width: 35%;
+    border: 3px solid gray;
+    border-radius: 15px;
+    margin: 25px auto;
+}
+
+.contect-box input {
+    padding: 5px;
+    margin: 5px;
+    width: 100%;
+    font-size: 15px;
+    border-radius: 5px;
+}
+
+.contect-box input:focus {
+    padding: 5px;
+    background-color: rgba(248, 248, 212, 0.466);
+    margin: 5px;
+    width: 100%;
+    font-size: 15px;
+    border-radius: 5px;
+}
+
+
+/* .contect-box form {
+border: 5 px solid rgb(255, 0, 191);
+width: 50%;
+margin: 10 px;
+padding: 50 px;
+}
+*/
+
+.contect-box label {
+    font-size: 1.3rem;
+    font-weight: bold;
+}
+
+#create-profile {
+    background-color: rgb(148, 150, 149, 55%);
+    width: 70%;
+    display: block;
+    cursor: pointer;
+    border-radius: 20px;
+    padding: 10px;
+    font-weight: bold;
+    font-size: 25px;
+    margin: 25px auto;
+}
