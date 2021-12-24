@@ -1,0 +1,13 @@
+p{
+    color: white;
+    font-size: 30px;
+    border: 3px solid blue;
+    background-color: gray;
+    border-radius: 20px;
+    text-align: center;
+
+}
+h1{
+    color: greenyellow;
+    text-align: center;
+}
