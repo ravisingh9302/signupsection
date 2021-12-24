@@ -1,7 +1,7 @@
 .h-primary {
     font-size: 3rem;
     padding: 10px;
-    font-family: 'Acme', sans-serif;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     background-color: rgb(255, 228, 196, 40%);
     color: rgb(252, 152, 4);
     text-align: center;
@@ -29,7 +29,8 @@
 
 .contect-box input:focus {
     padding: 5px;
-    background-color: rgba(248, 248, 212, 0.466);
+    background-color: rgb(8, 8, 8);
+    color: white;
     margin: 5px;
     width: 100%;
     font-size: 15px;
